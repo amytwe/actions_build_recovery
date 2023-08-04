@@ -7,7 +7,7 @@
   "dt_url": "cloudsweets/twrp_devicce_lenovo_9707F",
   "dt_branch": "master",
   "dt_remote": "github",
-  "dt_path": "device/lenovo/9707f",
+  "dt_path": "device/lenovo/9tb707f",
   "device_code": "9707f",
   "fix_product": true,
   "fix_misscom": true,
